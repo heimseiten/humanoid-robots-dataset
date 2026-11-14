@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and link to https://www.thehumanoid.report/ ."
+title: "Humanoid Robots Dataset"
+type: dataset
+authors:
+  - family-names: Hegmans
+    given-names: Niels
+    email: info@heimseiten.de
+publisher:
+  name: "The Humanoid Report"
+license: CC-BY-4.0
+url: "https://www.thehumanoid.report/"
+repository-code: "https://github.com/heimseiten/humanoid-robots-dataset"
+date-released: "2026-11-14"
