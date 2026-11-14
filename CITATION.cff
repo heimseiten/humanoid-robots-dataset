@@ -8,6 +8,7 @@ authors:
     email: info@heimseiten.de
 publisher:
   name: "The Humanoid Report"
+doi: "10.5281/zenodo.24224006"
 license: CC-BY-4.0
 url: "https://www.thehumanoid.report/"
 repository-code: "https://github.com/heimseiten/humanoid-robots-dataset"

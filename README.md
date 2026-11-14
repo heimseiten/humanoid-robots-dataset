@@ -1,5 +1,7 @@
 # Humanoid Robots Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24224006.svg)](https://doi.org/10.5281/zenodo.24224006)
+
 An open, sourced index of 60 humanoid robots (manufacturer, country, locomotion, availability and price per market EU/US/CN, height, weight, named customers, confidence), maintained by [The Humanoid Report](https://www.thehumanoid.report/).
 
 - Files: `humanoids.json`, `humanoids.csv` (identical content, one row per robot)
@@ -30,4 +32,4 @@ Facts only, each traceable to public sources listed on the robot's page. No imag
 [CC BY 4.0](LICENSE). Attribution required: credit "The Humanoid Report" and link to https://www.thehumanoid.report/ .
 
 ## Cite
-The Humanoid Report. *Humanoid Robots Dataset* (2026). https://www.thehumanoid.report/ , https://github.com/heimseiten/humanoid-robots-dataset (CC BY 4.0). See `CITATION.cff`.
+The Humanoid Report. *Humanoid Robots Dataset* (2026). https://www.thehumanoid.report/ , https://github.com/heimseiten/humanoid-robots-dataset (CC BY 4.0). DOI: https://doi.org/10.5281/zenodo.24224006 . See `CITATION.cff`.
